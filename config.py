@@ -17,9 +17,9 @@ config = {
 	},
 
 	# Optional. You can leave them empty or customize the email message header or body here
-	"subject_header": b"",  # Subject: Test espoofer\r\n
-	"to_header": b"", # To: <alice@example.com>\r\n
-	"body": b"", # Test Body.
+	"subject_header": b"Coches",  # Subject: Test espoofer\r\n
+	"to_header": b"georgegantesm@gmail.com", # To: <alice@example.com>\r\n
+	"body": b"camara coches", # Test Body.
 
 	# Optional. Set the raw email message you want to sent. It's usually used for replay attacks
 	"raw_email": b"", 
